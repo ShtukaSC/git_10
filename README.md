@@ -1,5 +1,6 @@
 # git_10
 Задание 1
+![image](https://github.com/user-attachments/assets/774725aa-1a76-414f-a589-6d195a934ff2)
 
 
 Задание 2
