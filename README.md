@@ -10,4 +10,5 @@
 
 Задание 3
 
-![image](https://github.com/user-attachments/assets/312be4f0-ccf2-46c0-9dd5-7d9beb007de5)
+![image](https://github.com/user-attachments/assets/c5306c92-4ad6-4b91-880a-5f9366036109)
+
